@@ -1,1 +1,1 @@
-<h4 align="center">Generic Data Science Project Template</h4>
+<h1 align="center">Generic Data Science Project Template</h1>
