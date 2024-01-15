@@ -40,7 +40,7 @@ list_of_files = [
     # '.ebextensions/python.config',                      # for deployment of machine learning model in aws elasitc beanstalk
     # 'Dockerfile'                                        # for containerizing the project
     
-    'github/workflows/main.yml',                        # github actions workflow for ci-cd pipeline  
+    '.github/workflows/main.yml',                        # github actions workflow for ci-cd pipeline  
     
     'images/.gitkeep',                                  # supporting images for github readme
 
