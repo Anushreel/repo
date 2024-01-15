@@ -1,4 +1,4 @@
-<h1 align="center">Generic Data Science Project Template</h1>
+<h1 align="center">:rocket: Generic Data Science Project Template :rocket:</h1>
 
 ---
 
